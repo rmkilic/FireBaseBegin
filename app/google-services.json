@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "13445466087",
+    "firebase_url": "https://firebeginner-bde04.firebaseio.com",
+    "project_id": "firebeginner-bde04",
+    "storage_bucket": "firebeginner-bde04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13445466087:android:cd9390629f2b1da1",
+        "android_client_info": {
+          "package_name": "com.example.mumin.firebasebeginner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13445466087-orp9avabh3c7v7oktum3tmpcgtdick2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-H48ywB2J8scfpnPSlSciM4ggPkKUEc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
